@@ -10,4 +10,4 @@ def fizzbuzz(fizz=3,buzz=5,duration=100):
         else:
             print(i)
 
-fizzbuzz(3,5)
+fizzbuzz()
